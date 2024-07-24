@@ -15,6 +15,10 @@ export default function Home() {
       <main>
         <Header title="The Ultimate Guide to G63 Rental in Dubai" />
 
+    <section>
+          <img src="https://carrentaldxb.com/wp-content/uploads/2014/10/g63-rental-dubai.jpg" alt="G63 Rental Dubai" style={{ width: '100%', height: 'auto' }} />
+        </section>
+
         <section>
           <h2>The Allure of the G63 AMG</h2>
           <h3>A Symbol of Power and Luxury</h3>
