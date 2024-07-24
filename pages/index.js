@@ -46,7 +46,7 @@ export default function Home() {
 
           <h3>Make a Statement</h3>
           <p>
-            Driving a G63 in Dubai is a surefire way to turn heads. The vehicle's iconic design and powerful engine make it a standout on the road. Whether you're attending a business meeting, a social event, or simply enjoying a night out, arriving in a G63 makes a bold statement about your taste and status.
+            Driving a <a href="https://bit.ly/g63-rental">G63 rental in Dubai</a> is a surefire way to turn heads. The vehicle's iconic design and powerful engine make it a standout on the road. Whether you're attending a business meeting, a social event, or simply enjoying a night out, arriving in a G63 makes a bold statement about your taste and status.
           </p>
         </section>
 
@@ -124,6 +124,9 @@ export default function Home() {
           <h2>Conclusion</h2>
           <p>
             Renting a G63 in Dubai offers an unparalleled opportunity to experience the city's luxury and excitement from behind the wheel of one of the world's most iconic SUVs. From its powerful performance and opulent interior to its off-road capabilities and commanding presence, the G63 is the perfect vehicle for exploring Dubai in style. Whether you're visiting for business or pleasure, a G63 rental ensures a memorable and exhilarating driving experience. So, buckle up, hit the road, and let the adventure begin!
+          </p>
+          <p>
+            For more information or to book your G63 rental, visit <a href="https://carrentaldxb.com/car/mercedes-g63/" target="_blank">G63 Rental in Dubai</a>.
           </p>
         </section>
       </main>
