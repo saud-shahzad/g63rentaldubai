@@ -7,7 +7,8 @@ export default function Home() {
     <div className="container">
       <Head>
         <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
-        <title>The Ultimate Guide to G63 Rental in Dubai</title>
+<title>G63 Rental Dubai - Rent a Mercedes-Benz G63 AMG in Dubai | Luxury SUV Hire</title>
+        <meta name="description" content="Experience luxury and power with our G63 rental in Dubai. Rent a Mercedes-Benz G63 AMG and explore the city in style. Book your G63 Dubai rental today!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
