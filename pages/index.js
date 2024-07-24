@@ -46,7 +46,7 @@ export default function Home() {
 
           <h3>Make a Statement</h3>
           <p>
-            Driving a <a href="https://bit.ly/g63-rental">G63 rental in Dubai</a> is a surefire way to turn heads. The vehicle's iconic design and powerful engine make it a standout on the road. Whether you're attending a business meeting, a social event, or simply enjoying a night out, arriving in a G63 makes a bold statement about your taste and status.
+            Driving a <a href="https://bit.ly/g63-rental">G63 rental Dubai</a> is a surefire way to turn heads. The vehicle's iconic design and powerful engine make it a standout on the road. Whether you're attending a business meeting, a social event, or simply enjoying a night out, arriving in a G63 makes a bold statement about your taste and status.
           </p>
         </section>
 
