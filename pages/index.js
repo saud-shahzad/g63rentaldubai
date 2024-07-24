@@ -1,19 +1,18 @@
-import Head from 'next/head';
-import styles from '../styles/Guide.module.css';
+import Head from 'next/head'
+import Header from '@components/Header'
+import Footer from '@components/Footer'
 
-export default function Guide() {
+export default function Home() {
   return (
-    <div className={styles.container}>
+    <div className="container">
       <Head>
+        <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
         <title>The Ultimate Guide to G63 Rental in Dubai</title>
-        <meta name="description" content="Explore the ultimate guide to renting a G63 in Dubai. Discover the allure, requirements, costs, and top destinations to explore in this luxurious SUV." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          The Ultimate Guide to G63 Rental in Dubai
-        </h1>
+      <main>
+        <Header title="The Ultimate Guide to G63 Rental in Dubai" />
 
         <section>
           <h2>The Allure of the G63 AMG</h2>
@@ -128,6 +127,8 @@ export default function Guide() {
           </p>
         </section>
       </main>
+
+      <Footer />
     </div>
-  );
+  )
 }
