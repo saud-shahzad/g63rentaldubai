@@ -76,7 +76,7 @@ export default function Home() {
 
           <h3>Rental Costs</h3>
           <p>
-            The cost of renting a G63 in Dubai can vary based on several factors, including the rental duration, season, and demand. On average, you can expect to pay between AED 1,500 to AED 2,500 per day. Many rental companies offer discounts for longer rental periods, so it's worth inquiring about weekly or monthly rates if you plan to rent the vehicle for an extended period.
+            The cost of <a href="https://www.google.fr/url?sa=t&url=https%3A%2F%2Fcarrentaldxb.com%2Fcar%2Fmercedes-g63%2F">renting a G63 in Dubai</a> can vary based on several factors, including the rental duration, season, and demand. On average, you can expect to pay between AED 1,500 to AED 2,500 per day. Many rental companies offer discounts for longer rental periods, so it's worth inquiring about weekly or monthly rates if you plan to rent the vehicle for an extended period.
           </p>
 
           <h3>Driving in Dubai: Tips and Guidelines</h3>
