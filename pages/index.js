@@ -6,6 +6,8 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
         <meta name="google-site-verification" content="xi3LCXwzZC7EdFskSZTQQP_YI5UMeAm2URVqQkPGc_4" />
 <title>G63 Rental Dubai - Rent a Mercedes-Benz G63 AMG in Dubai | Luxury SUV Hire</title>
         <meta name="description" content="Experience luxury and power with our G63 rental in Dubai. Rent a Mercedes-Benz G63 AMG and explore the city in style. Book your G63 Dubai rental today!" />
