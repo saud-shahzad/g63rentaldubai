@@ -136,15 +136,17 @@ export default function Home() {
         </section>
       </main>
 
-  <a
-  href="https://api.whatsapp.com/send?phone=971522887844&text=Hi, I am contacting from renterpoint.com and interested in renting the Mercedes G63 AMG in Dubai"
+<a
+  href="https://api.whatsapp.com/send?phone=971522887844&text=Hi, I am interested in renting the Mercedes G63 AMG in Dubai"
   className="whatsapp-float"
   target="_blank"
   rel="noopener noreferrer"
   aria-label="Chat on WhatsApp"
 >
-  <img src="/whatsapp-icon.svg" alt="WhatsApp Chat" />
+  <i className="fab fa-whatsapp"></i>
 </a>
+<Footer />
+
 
       <Footer />
     </div>
